@@ -15,6 +15,7 @@
   <h6 align="center">Informações:</h6>
   <p>
       Autor: Matheus F. Santos<br>
+      Tinkercad: <a href="https://www.tinkercad.com/dashboard?collection=designs&type=circuits" target="_blank">Matheus Ferreira Santos</a>
   </p>
 </section>
 
