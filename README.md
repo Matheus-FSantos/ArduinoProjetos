@@ -5,7 +5,7 @@
 <section>
   <h6 align="center">Sobre:</h6>
   <p>
-    Espaço destinado para a postagem de alguns exercicios, sobre Arduino, onde todos os códigos foram escritos utilizando a IDE do Arduino e foram feitos somente para fins didáticos somente para a assimilação do conteúdo passados em aula ou em algum curso realizado.
+    Espaço destinado para a postagem de alguns exercicios, sobre Arduino, onde todos os códigos foram escritos utilizando a IDE <a href="https://www.arduino.cc/" target="_blank">Arduino</a> e foram feitos somente para fins didáticos somente para a assimilação do conteúdo passados em aula ou em algum curso realizado.
   </p>
 </section>
 
