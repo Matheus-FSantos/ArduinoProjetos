@@ -30,8 +30,8 @@
       <li>Programação Web - Repositório <a href="https://github.com/Matheus-FSantos/SENAC-PWA107-1142496616-Matheus" target="_blank">(Clique Aqui)</a></li>
       <li>Exercicios em Java (Algoritmos) - Repositório <a href="https://github.com/Matheus-FSantos/ExerciciosJava" target="_blank">(Clique Aqui)</a></li>
       <li>MySQL - SoftBlue - Repositório <a href="https://github.com/Matheus-FSantos/MySQL-Softblue" target="_blank">(Clique Aqui)</a></li>
-      <li>Curso de Java - Repositório <a href="https://github.com/Matheus-FSantos/Curso-de-Java-Udemy" target="_blank">(Conteúdo Em Breve)</a></li>
-      <li>Curso Desenvolvimento Web Completo - Repositório <a href="https://github.com/Matheus-FSantos/curso-desenvolvimeto-web-completo-udemy/" targer="_blank">(Conteúdo Em Breve)</a></li>
+      <li>Curso de Java - Repositório <a href="https://github.com/Matheus-FSantos/Curso-de-Java-Udemy" target="_blank">(Clique Aqui)</a></li>
+      <li>Curso Desenvolvimento Web Completo - Repositório <a href="https://github.com/Matheus-FSantos/curso-desenvolvimeto-web-completo-udemy/" targer="_blank">(Clique Aqui)</a></li>
     </ul>
   </nav>
 </section>
